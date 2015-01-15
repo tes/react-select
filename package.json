@@ -2,7 +2,7 @@
   "name": "react-select",
   "version": "0.2.14",
   "description": "A Select control built with and for ReactJS",
-  "main": "src/Select.js",
+  "main": "src/Select.jsx",
   "author": "Jed Watson",
   "license": "MIT",
   "repository": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "classnames": "^1.0.0",
     "react": "^0.12.2",
-    "react-input-autosize": "^0.2.3",
+    "react-input-autosize": "git+ssh://github.com/tes/react-input-autosize.git",
     "reactify": "^0.17.1",
     "underscore": "^1.7.0"
   },
