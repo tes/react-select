@@ -12,7 +12,7 @@
   "dependencies": {
     "classnames": "^1.0.0",
     "react": "^0.12.2",
-    "react-input-autosize": "git+ssh://github.com/tes/react-input-autosize.git",
+    "react-input-autosize": "git+ssh://git@github.com/tes/react-input-autosize.git",
     "reactify": "^0.17.1",
     "underscore": "^1.7.0"
   },
